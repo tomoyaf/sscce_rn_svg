@@ -7,7 +7,7 @@
 5. `$ react-native link react-native-svg`
 6. Edit ./App.js and ./src/SvgExample.js
 7. `$ yarn ios`
-8.
+8. ![ss](https://github.com/tomoyaf/sscce_rn_svg/raw/master/docs/ss.png)
 
 # REF
 
