@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/tomoyaf/workdir/tomoyaf/test/svg/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
